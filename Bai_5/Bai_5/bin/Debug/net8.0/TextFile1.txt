@@ -1,4 +1,0 @@
-Tran Duy Hung, Java, 2
-Tran Hoa Binh, Java, 4
-Nguyen Van A, .Net, 2
-Le Thi B, C/C++, 3
