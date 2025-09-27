@@ -1,0 +1,16 @@
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\bin\Debug\net8.0-windows\Bai3.exe
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\bin\Debug\net8.0-windows\Bai3.deps.json
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\bin\Debug\net8.0-windows\Bai3.runtimeconfig.json
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\bin\Debug\net8.0-windows\Bai3.dll
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\bin\Debug\net8.0-windows\Bai3.pdb
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.Form1.resources
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.csproj.GenerateResource.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfoInputs.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfo.cs
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.csproj.CoreCompileInputs.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.dll
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\refint\Bai3.dll
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.pdb
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\Bai3.genruntimeconfig.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai3\Bai3\obj\Debug\net8.0-windows\ref\Bai3.dll

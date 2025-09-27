@@ -1,0 +1,16 @@
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\bin\Debug\net8.0-windows\Bai4.exe
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\bin\Debug\net8.0-windows\Bai4.deps.json
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\bin\Debug\net8.0-windows\Bai4.runtimeconfig.json
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\bin\Debug\net8.0-windows\Bai4.dll
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\bin\Debug\net8.0-windows\Bai4.pdb
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.ComboBox.resources
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.csproj.GenerateResource.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.AssemblyInfoInputs.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.AssemblyInfo.cs
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.csproj.CoreCompileInputs.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.dll
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\refint\Bai4.dll
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.pdb
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\Bai4.genruntimeconfig.cache
+D:\VJU\Năm 3\Lap trinh nang cao\Bai4\Bai4\obj\Debug\net8.0-windows\ref\Bai4.dll
